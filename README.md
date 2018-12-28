@@ -39,6 +39,9 @@ Go to GitHub Pull Requests section, fill the line Published Jenkins URL:
 
 ***4. Pipeline***
 
+Create new pipeline:
+
+* ```http://<Jenkins_IP>:8080/view/all/newJob ```
 General:
 
 Github project
