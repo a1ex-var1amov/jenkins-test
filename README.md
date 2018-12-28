@@ -33,7 +33,7 @@ Go to GitHub section, add your credentials:
 
 
 Go to GitHub Pull Requests section, fill the line Published Jenkins URL:
-* ```http://157.230.31.191:8080/```
+* ```http://<Jenkins_IP>:8080/```
 
 ***4. Pipeline***
 
