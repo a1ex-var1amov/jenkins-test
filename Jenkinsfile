@@ -3,7 +3,7 @@ node {
     checkout scm
     sh "ls -l"
   }
-  stage('Stage2') {
-    sh "cat /etc/passwd"
+  stage('Syntax') {
+    sh "pyling *.py"
   }
 }
