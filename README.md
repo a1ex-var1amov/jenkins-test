@@ -53,6 +53,7 @@ Build triggers
 Pipeline
 
 * Pipeline script from SCM
+* SCM: GIT
 * url: ```https://github.com/a1ex-var1amov/jenkins-test```
 * your credentials
 * script path:
