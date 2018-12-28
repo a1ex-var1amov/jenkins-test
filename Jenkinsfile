@@ -1,7 +1,6 @@
 node {
-  stage('Stage1') {
-    echo "test"
-    sh "sleep 5"
+  stage('Checkout') {
+    checkout scm
   }
   stage('Stage2') {
     sh "cat /etc/passwd"
