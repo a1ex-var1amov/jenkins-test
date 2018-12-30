@@ -21,7 +21,7 @@ http://<Jenkins_IP>:8080/pluginManager/available
 ```
 Find and install:
 
-GitHub Integration Plugin
+__GitHub Integration Plugin__
 
 ***3. GitHub global config***
 This step provides an ability for Jenkins to create new web-hooks
