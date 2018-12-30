@@ -59,7 +59,8 @@ Pipeline
 * script path:
 Jenkinsfile
 
-What in Jenkinsfile:
+Jenkinsfile content:
+
 ```
 node {
   stage('Checkout') {
